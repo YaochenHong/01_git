@@ -49,4 +49,3 @@ On Windows this explicitly requests precompiled packages, so Rtools or Rust are 
 7. You should now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this:
 
   ![Sierpinski Triangle](sier.png)
-  
