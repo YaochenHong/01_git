@@ -28,4 +28,5 @@ sampleVertex <- function(n) {
 #   * step.size = 0.5 --> halfway between `from` and `to`
 stepToVertex <- function(from, to, step.size) {
   c(x=0, y=0)
-}
+} 
+  
